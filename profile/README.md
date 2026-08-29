@@ -1,7 +1,7 @@
 <h1 align="center">Alke Labs</h1>
 
 <p align="center">
-  <strong>Pushing AI to its limits — and shipping the products that come out of it.</strong>
+  <strong>Pushing AI to its limits, and shipping the products that come out of it.</strong>
 </p>
 
 <p align="center">
@@ -16,17 +16,26 @@ Alke Labs is an endeavor by **Nikolaos Petridis** built around a single question
 
 The answer, so far, is *production software*. We design and ship:
 
-- **Web apps** — marketing sites, dashboards, and full SaaS platforms
-- **Mobile apps** — iOS and Android, from prototype to App Store
-- **Desktop apps** — offline-capable, native-feeling clients
-- **B2B systems** — internal tooling, operational platforms, integrations
-- **B2C products** — consumer apps with payments, subscriptions, and scale in mind
+- **Web apps**: marketing sites, dashboards, and full SaaS platforms
+- **Mobile apps**: iOS and Android, from prototype to App Store
+- **Desktop apps**: offline-capable, native-feeling clients
+- **B2B systems**: internal tooling, operational platforms, integrations
+- **B2C products**: consumer apps with payments, subscriptions, and scale in mind
 
-Every project is built with AI in the loop from the first line of the spec to the last commit — not as a novelty, but as the working method.
+Every project is built with AI in the loop from the first line of the spec to the last commit. Not as a novelty, but as the working method.
 
 ---
 
 ## Stack
+
+**Languages**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+</p>
 
 **Frontend & frameworks**
 
@@ -56,6 +65,7 @@ Every project is built with AI in the loop from the first line of the spec to th
 <p>
   <img alt="Payload CMS" src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
   <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
@@ -66,9 +76,9 @@ Every project is built with AI in the loop from the first line of the spec to th
 | | |
 |---|---|
 | **Spec first** | Every build starts from a written design spec and an implementation plan, not a blank editor. |
-| **AI in the loop** | Design, implementation, and review are all AI-assisted — with a human accountable for every merge. |
+| **AI in the loop** | Design, implementation, and review are all AI-assisted, with a human accountable for every merge. |
 | **One stack, deeply** | We go deep on a focused toolset rather than wide on everything, so the work compounds across projects. |
-| **Shipped, not demoed** | Auth, payments, offline behaviour, and error states are part of v1 — not a later phase. |
+| **Shipped, not demoed** | Auth, payments, offline behaviour, and error states are part of v1, not a later phase. |
 
 ---
 
@@ -82,4 +92,4 @@ Every project is built with AI in the loop from the first line of the spec to th
 
 Open to B2B engagements, B2C product work, and collaborations.
 
-<p align="center"><sub>Alke Labs — built by Nikolaos Petridis</sub></p>
+<p align="center"><sub>Built by Nikolaos Petridis</sub></p>
